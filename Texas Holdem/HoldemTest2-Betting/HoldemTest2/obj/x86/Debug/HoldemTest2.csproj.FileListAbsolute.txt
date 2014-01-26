@@ -1,0 +1,66 @@
+C:\Users\CharlesQi\Desktop\HoldemTest2\HoldemTest2\bin\Debug\HoldemTest2.exe
+C:\Users\CharlesQi\Desktop\HoldemTest2\HoldemTest2\bin\Debug\HoldemTest2.pdb
+C:\Users\CharlesQi\Desktop\HoldemTest2\HoldemTest2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.Form1.resources
+C:\Users\CharlesQi\Desktop\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\HoldemTest2\HoldemTest2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\HoldemTest2\HoldemTest2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.exe
+C:\Users\CharlesQi\Desktop\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.pdb
+C:\Users\CharlesQi\Desktop\HoldemTest2\HoldemTest2\bin\Debug\Holdem.dll
+C:\Users\CharlesQi\Desktop\HoldemTest2\HoldemTest2\bin\Debug\Holdem.pdb
+C:\Users\Administrator\Desktop\Final Project\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.exe
+C:\Users\Administrator\Desktop\Final Project\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.pdb
+C:\Users\Administrator\Desktop\Final Project\HoldemTest2\HoldemTest2\bin\Debug\HoldemTest2.exe
+C:\Users\Administrator\Desktop\Final Project\HoldemTest2\HoldemTest2\bin\Debug\HoldemTest2.pdb
+C:\Users\Administrator\Desktop\Final Project\HoldemTest2\HoldemTest2\bin\Debug\Holdem.dll
+C:\Users\Administrator\Desktop\Final Project\HoldemTest2\HoldemTest2\bin\Debug\Holdem.pdb
+C:\Users\Administrator\Desktop\Final Project\HoldemTest2\HoldemTest2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Final Project\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.Form1.resources
+C:\Users\Administrator\Desktop\Final Project\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Final Project\HoldemTest2\HoldemTest2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Final Project\HoldemTest2\HoldemTest2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.exe
+C:\Users\CharlesQi\Desktop\Charles's Work\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\HoldemTest2\HoldemTest2\bin\Debug\HoldemTest2.exe
+C:\Users\CharlesQi\Desktop\Charles's Work\HoldemTest2\HoldemTest2\bin\Debug\HoldemTest2.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\HoldemTest2\HoldemTest2\bin\Debug\Holdem.dll
+C:\Users\CharlesQi\Desktop\Charles's Work\HoldemTest2\HoldemTest2\bin\Debug\Holdem.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\HoldemTest2\HoldemTest2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Charles's Work\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.Form1.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\HoldemTest2\HoldemTest2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\HoldemTest2\HoldemTest2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.exe
+E:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.pdb
+E:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\bin\Debug\HoldemTest2.exe
+E:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\bin\Debug\HoldemTest2.pdb
+E:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\bin\Debug\Holdem.dll
+E:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\bin\Debug\Holdem.pdb
+E:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.Form1.resources
+E:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.Properties.Resources.resources
+E:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.exe
+F:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.pdb
+F:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\bin\Debug\HoldemTest2.exe
+F:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\bin\Debug\HoldemTest2.pdb
+F:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\bin\Debug\Holdem.dll
+F:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\bin\Debug\Holdem.pdb
+F:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.Form1.resources
+F:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.Properties.Resources.resources
+F:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.exe
+J:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.pdb
+J:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\bin\Debug\HoldemTest2.exe
+J:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\bin\Debug\HoldemTest2.pdb
+J:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\bin\Debug\Holdem.dll
+J:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\bin\Debug\Holdem.pdb
+J:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.Form1.resources
+J:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\HoldemTest2.Properties.Resources.resources
+J:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Programming\Texas Holdem\HoldemTest2\HoldemTest2\obj\x86\Debug\GenerateResource.write.1.tlog

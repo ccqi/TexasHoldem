@@ -1,0 +1,224 @@
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\bin\Debug\Poker Game.exe
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\bin\Debug\Poker Game.pdb
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormTitleScreen.resources
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormPoker.resources
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGameOptions.resources
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\bin\Debug\Holdem.dll
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\bin\Debug\Holdem.pdb
+C:\Users\CharlesQi\Desktop\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+C:\Users\CharlesQi\Desktop\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb
+C:\Users\CharlesQi\Desktop\Poker Game\Poker Game\bin\Debug\Poker Game.exe
+C:\Users\CharlesQi\Desktop\Poker Game\Poker Game\bin\Debug\Poker Game.pdb
+C:\Users\CharlesQi\Desktop\Poker Game\Poker Game\bin\Debug\Holdem.dll
+C:\Users\CharlesQi\Desktop\Poker Game\Poker Game\bin\Debug\Holdem.pdb
+C:\Users\CharlesQi\Desktop\Poker Game\Poker Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGameOptions.resources
+C:\Users\CharlesQi\Desktop\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormPoker.resources
+C:\Users\CharlesQi\Desktop\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormTitleScreen.resources
+C:\Users\CharlesQi\Desktop\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+F:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb
+F:\Programming\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.exe
+F:\Programming\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.pdb
+F:\Programming\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.dll
+F:\Programming\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.pdb
+F:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGameOptions.resources
+F:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormPoker.resources
+F:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormTitleScreen.resources
+F:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.Properties.Resources.resources
+F:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+E:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb
+F:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.4.tlog
+E:\Programming\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.exe
+E:\Programming\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.pdb
+E:\Programming\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.dll
+E:\Programming\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.pdb
+E:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGameOptions.resources
+E:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormPoker.resources
+E:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormTitleScreen.resources
+E:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.Properties.Resources.resources
+E:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.4.tlog
+E:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.exe
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.pdb
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.dll
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.pdb
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGameOptions.resources
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormPoker.resources
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormTitleScreen.resources
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.Properties.Resources.resources
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.4.tlog
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sonia\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGetMoney.resources
+F:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGetMoney.resources
+E:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGetMoney.resources
+J:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+J:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb
+J:\Programming\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.exe
+J:\Programming\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.pdb
+J:\Programming\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.dll
+J:\Programming\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.pdb
+J:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGameOptions.resources
+J:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGetMoney.resources
+J:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormPoker.resources
+J:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormTitleScreen.resources
+J:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.Properties.Resources.resources
+J:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.4.tlog
+J:\Programming\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGetMoney.resources
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.4.tlog
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.exe
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.pdb
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.dll
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.pdb
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGameOptions.resources
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGetMoney.resources
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormPoker.resources
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormTitleScreen.resources
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.4.tlog
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormRegister.resources
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormLogin.resources
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormEndGame.resources
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\bin\Debug\Poker Game.exe
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\bin\Debug\Poker Game.pdb
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\bin\Debug\Holdem.dll
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\bin\Debug\Holdem.pdb
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormEndGame.resources
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGameOptions.resources
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGetMoney.resources
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormLogin.resources
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormPoker.resources
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormRegister.resources
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormTitleScreen.resources
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.4.tlog
+C:\Users\CharlesQi\Desktop\New folder\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormEndGame.resources
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormLogin.resources
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormRegister.resources
+C:\Users\CharlesQi\Desktop\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormInformation.resources
+C:\Users\Administrator\Desktop\Final Project\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormInformation.resources
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormEndGame.resources
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGameOptions.resources
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGetMoney.resources
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormInformation.resources
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormLogin.resources
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormPoker.resources
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormRegister.resources
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormTitleScreen.resources
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.Properties.Resources.resources
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.4.tlog
+F:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.exe
+F:\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.pdb
+F:\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.dll
+F:\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.pdb
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb
+J:\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.exe
+J:\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.pdb
+J:\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.dll
+J:\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.pdb
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormEndGame.resources
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGameOptions.resources
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGetMoney.resources
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormInformation.resources
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormLogin.resources
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormPoker.resources
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormRegister.resources
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormTitleScreen.resources
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.Properties.Resources.resources
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.4.tlog
+J:\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.exe
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.pdb
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.dll
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.pdb
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormEndGame.resources
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGameOptions.resources
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGetMoney.resources
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormInformation.resources
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormLogin.resources
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormPoker.resources
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormRegister.resources
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormTitleScreen.resources
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.Properties.Resources.resources
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.4.tlog
+F:\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.exe
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.pdb
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.dll
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.pdb
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormEndGame.resources
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGameOptions.resources
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGetMoney.resources
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormInformation.resources
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormLogin.resources
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormPoker.resources
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormRegister.resources
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormTitleScreen.resources
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.Properties.Resources.resources
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.4.tlog
+F:\Programming\Final Project-Poker\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.exe
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.dll
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormEndGame.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGameOptions.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGetMoney.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormInformation.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormLogin.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormPoker.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormRegister.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormTitleScreen.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.read.4.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\GenerateResource.write.1.tlog

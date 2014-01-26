@@ -1,0 +1,106 @@
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Holdem\bin\Release\Holdem.dll
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Holdem\bin\Release\Holdem.pdb
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Holdem\obj\Release\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Holdem\obj\Release\Holdem.Properties.Resources.resources
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Holdem\obj\Release\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Holdem\obj\Release\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Holdem\obj\Release\Holdem.dll
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Holdem\obj\Release\Holdem.pdb
+F:\Programming\Holdem\Holdem\bin\Release\Holdem.dll
+F:\Programming\Holdem\Holdem\bin\Release\Holdem.pdb
+F:\Programming\Holdem\Holdem\obj\Release\ResolveAssemblyReference.cache
+F:\Programming\Holdem\Holdem\obj\Release\Holdem.Properties.Resources.resources
+F:\Programming\Holdem\Holdem\obj\Release\GenerateResource.read.1.tlog
+F:\Programming\Holdem\Holdem\obj\Release\GenerateResource.write.1.tlog
+F:\Programming\Holdem\Holdem\obj\Release\Holdem.dll
+F:\Programming\Holdem\Holdem\obj\Release\Holdem.pdb
+F:\Programming\Holdem\Holdem\bin\Debug\Holdem.dll
+F:\Programming\Holdem\Holdem\bin\Debug\Holdem.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Holdem\Holdem\bin\Debug\Holdem.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Holdem\Holdem\bin\Debug\Holdem.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Holdem\Holdem\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Holdem\Holdem\obj\Release\Holdem.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Holdem\Holdem\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Holdem\Holdem\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Holdem\Holdem\obj\Release\Holdem.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Holdem\Holdem\obj\Release\Holdem.pdb
+C:\Users\CharlesQi\Desktop\Holdem\Holdem\bin\Debug\Holdem.dll
+C:\Users\CharlesQi\Desktop\Holdem\Holdem\bin\Debug\Holdem.pdb
+C:\Users\CharlesQi\Desktop\Holdem\Holdem\obj\Release\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Holdem\Holdem\obj\Release\Holdem.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Holdem\Holdem\obj\Release\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Holdem\Holdem\obj\Release\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Holdem\Holdem\obj\Release\Holdem.dll
+C:\Users\CharlesQi\Desktop\Holdem\Holdem\obj\Release\Holdem.pdb
+C:\Users\Administrator\Desktop\Final Project\Holdem\Holdem\bin\Debug\Holdem.dll
+C:\Users\Administrator\Desktop\Final Project\Holdem\Holdem\bin\Debug\Holdem.pdb
+C:\Users\Administrator\Desktop\Final Project\Holdem\Holdem\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Final Project\Holdem\Holdem\obj\Release\Holdem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Final Project\Holdem\Holdem\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Final Project\Holdem\Holdem\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Final Project\Holdem\Holdem\obj\Release\Holdem.dll
+C:\Users\Administrator\Desktop\Final Project\Holdem\Holdem\obj\Release\Holdem.pdb
+E:\Programming\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.dll
+E:\Programming\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.pdb
+E:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\ResolveAssemblyReference.cache
+E:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.Properties.Resources.resources
+E:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.read.1.tlog
+E:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.write.1.tlog
+E:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.dll
+E:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.pdb
+F:\Programming\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.dll
+F:\Programming\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.pdb
+F:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\ResolveAssemblyReference.cache
+F:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.Properties.Resources.resources
+F:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.read.1.tlog
+F:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.write.1.tlog
+F:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.dll
+F:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.pdb
+J:\Programming\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.dll
+J:\Programming\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.pdb
+J:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\ResolveAssemblyReference.cache
+J:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.Properties.Resources.resources
+J:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.read.1.tlog
+J:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.write.1.tlog
+J:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.dll
+J:\Programming\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.pdb
+C:\Users\sonia\Desktop\Texas Holdem\Holdem\Holdem\obj\Release\ResolveAssemblyReference.cache
+C:\Users\sonia\Desktop\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.Properties.Resources.resources
+C:\Users\sonia\Desktop\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.read.1.tlog
+C:\Users\sonia\Desktop\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.write.1.tlog
+C:\Users\sonia\Desktop\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.dll
+C:\Users\sonia\Desktop\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.pdb
+C:\Users\sonia\Desktop\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.dll
+C:\Users\sonia\Desktop\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.pdb
+C:\Users\CharlesQi\Desktop\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.dll
+C:\Users\CharlesQi\Desktop\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.pdb
+C:\Users\CharlesQi\Desktop\Texas Holdem\Holdem\Holdem\obj\Release\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.dll
+C:\Users\CharlesQi\Desktop\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.pdb
+F:\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.dll
+F:\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.pdb
+F:\Texas Holdem\Holdem\Holdem\obj\Release\ResolveAssemblyReference.cache
+F:\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.Properties.Resources.resources
+F:\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.read.1.tlog
+F:\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.write.1.tlog
+F:\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.dll
+F:\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.pdb
+F:\Final Project-Poker\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.dll
+F:\Final Project-Poker\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.pdb
+F:\Final Project-Poker\Texas Holdem\Holdem\Holdem\obj\Release\ResolveAssemblyReference.cache
+F:\Final Project-Poker\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.Properties.Resources.resources
+F:\Final Project-Poker\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.read.1.tlog
+F:\Final Project-Poker\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.write.1.tlog
+F:\Final Project-Poker\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.dll
+F:\Final Project-Poker\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.dll
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Holdem\Holdem\obj\Release\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Holdem\Holdem\obj\Release\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.dll
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\Holdem\Holdem\obj\Release\Holdem.pdb

@@ -1,0 +1,57 @@
+F:\Programming\HoldemTest1\HoldemTest1\bin\Debug\HoldemTest1.exe
+F:\Programming\HoldemTest1\HoldemTest1\bin\Debug\HoldemTest1.pdb
+F:\Programming\HoldemTest1\HoldemTest1\bin\Debug\Holdem.dll
+F:\Programming\HoldemTest1\HoldemTest1\bin\Debug\Holdem.pdb
+F:\Programming\HoldemTest1\HoldemTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.Form1.resources
+F:\Programming\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.Properties.Resources.resources
+F:\Programming\HoldemTest1\HoldemTest1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programming\HoldemTest1\HoldemTest1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programming\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.exe
+F:\Programming\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoldemTest1\HoldemTest1\bin\Debug\HoldemTest1.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoldemTest1\HoldemTest1\bin\Debug\HoldemTest1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoldemTest1\HoldemTest1\bin\Debug\Holdem.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoldemTest1\HoldemTest1\bin\Debug\Holdem.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoldemTest1\HoldemTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoldemTest1\HoldemTest1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoldemTest1\HoldemTest1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\HoldemTest1\HoldemTest1\bin\Debug\HoldemTest1.exe
+C:\Users\CharlesQi\Desktop\HoldemTest1\HoldemTest1\bin\Debug\HoldemTest1.pdb
+C:\Users\CharlesQi\Desktop\HoldemTest1\HoldemTest1\bin\Debug\Holdem.dll
+C:\Users\CharlesQi\Desktop\HoldemTest1\HoldemTest1\bin\Debug\Holdem.pdb
+C:\Users\CharlesQi\Desktop\HoldemTest1\HoldemTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.Form1.resources
+C:\Users\CharlesQi\Desktop\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\HoldemTest1\HoldemTest1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\HoldemTest1\HoldemTest1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.exe
+C:\Users\CharlesQi\Desktop\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.pdb
+C:\Users\Administrator\Desktop\Final Project\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.exe
+C:\Users\Administrator\Desktop\Final Project\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.pdb
+C:\Users\Administrator\Desktop\Final Project\HoldemTest1\HoldemTest1\bin\Debug\HoldemTest1.exe
+C:\Users\Administrator\Desktop\Final Project\HoldemTest1\HoldemTest1\bin\Debug\HoldemTest1.pdb
+C:\Users\Administrator\Desktop\Final Project\HoldemTest1\HoldemTest1\bin\Debug\Holdem.dll
+C:\Users\Administrator\Desktop\Final Project\HoldemTest1\HoldemTest1\bin\Debug\Holdem.pdb
+C:\Users\Administrator\Desktop\Final Project\HoldemTest1\HoldemTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Final Project\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.Form1.resources
+C:\Users\Administrator\Desktop\Final Project\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Final Project\HoldemTest1\HoldemTest1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Final Project\HoldemTest1\HoldemTest1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programming\Texas Holdem\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.exe
+F:\Programming\Texas Holdem\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.pdb
+F:\Programming\Texas Holdem\HoldemTest1\HoldemTest1\bin\Debug\HoldemTest1.exe
+F:\Programming\Texas Holdem\HoldemTest1\HoldemTest1\bin\Debug\HoldemTest1.pdb
+F:\Programming\Texas Holdem\HoldemTest1\HoldemTest1\bin\Debug\Holdem.dll
+F:\Programming\Texas Holdem\HoldemTest1\HoldemTest1\bin\Debug\Holdem.pdb
+F:\Programming\Texas Holdem\HoldemTest1\HoldemTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\Texas Holdem\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.Form1.resources
+F:\Programming\Texas Holdem\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.Properties.Resources.resources
+F:\Programming\Texas Holdem\HoldemTest1\HoldemTest1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programming\Texas Holdem\HoldemTest1\HoldemTest1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programming\Texas Holdem\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.exe
+E:\Programming\Texas Holdem\HoldemTest1\HoldemTest1\obj\x86\Debug\HoldemTest1.pdb

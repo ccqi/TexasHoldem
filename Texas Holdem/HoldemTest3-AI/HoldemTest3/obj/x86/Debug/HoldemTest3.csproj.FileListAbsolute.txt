@@ -1,0 +1,43 @@
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\bin\Debug\HoldemTest3.exe
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\bin\Debug\HoldemTest3.pdb
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\bin\Debug\Holdem.dll
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\bin\Debug\Holdem.pdb
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Debug\HoldemTest3.Form1.resources
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Debug\HoldemTest3.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Debug\HoldemTest3.exe
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Debug\HoldemTest3.pdb
+F:\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Debug\HoldemTest3.Form1.resources
+F:\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Debug\HoldemTest3.Properties.Resources.resources
+F:\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Debug\HoldemTest3.exe
+F:\Texas Holdem\HoldemTest3\HoldemTest3\bin\Debug\HoldemTest3.exe
+F:\Texas Holdem\HoldemTest3\HoldemTest3\bin\Debug\HoldemTest3.pdb
+F:\Texas Holdem\HoldemTest3\HoldemTest3\bin\Debug\Holdem.dll
+F:\Texas Holdem\HoldemTest3\HoldemTest3\bin\Debug\Holdem.pdb
+F:\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Debug\HoldemTest3.pdb
+C:\Users\CharlesQi\Desktop\HoldemTest3\HoldemTest3\obj\x86\Debug\HoldemTest3.exe
+C:\Users\CharlesQi\Desktop\HoldemTest3\HoldemTest3\obj\x86\Debug\HoldemTest3.pdb
+C:\Users\CharlesQi\Desktop\HoldemTest3\HoldemTest3\bin\Debug\HoldemTest3.exe
+C:\Users\CharlesQi\Desktop\HoldemTest3\HoldemTest3\bin\Debug\HoldemTest3.pdb
+C:\Users\CharlesQi\Desktop\HoldemTest3\HoldemTest3\bin\Debug\Holdem.pdb
+C:\Users\CharlesQi\Desktop\HoldemTest3\HoldemTest3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\HoldemTest3\HoldemTest3\obj\x86\Debug\HoldemTest3.Form1.resources
+C:\Users\CharlesQi\Desktop\HoldemTest3\HoldemTest3\obj\x86\Debug\HoldemTest3.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\HoldemTest3\HoldemTest3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\HoldemTest3\HoldemTest3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\HoldemTest3-AI\HoldemTest3\obj\x86\Debug\HoldemTest3.exe
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\HoldemTest3-AI\HoldemTest3\obj\x86\Debug\HoldemTest3.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\HoldemTest3-AI\HoldemTest3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\HoldemTest3-AI\HoldemTest3\obj\x86\Debug\HoldemTest3.Form1.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\HoldemTest3-AI\HoldemTest3\obj\x86\Debug\HoldemTest3.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\HoldemTest3-AI\HoldemTest3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\HoldemTest3-AI\HoldemTest3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\HoldemTest3-AI\HoldemTest3\bin\Debug\HoldemTest3.exe
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\HoldemTest3-AI\HoldemTest3\bin\Debug\HoldemTest3.pdb
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\HoldemTest3-AI\HoldemTest3\bin\Debug\Holdem.dll
+C:\Users\CharlesQi\Desktop\Charles's Work\High School\Charles's Grade 12 Work LAST YEAR!! 0_0\Computer Science\Texas Holdem\Texas Holdem\HoldemTest3-AI\HoldemTest3\bin\Debug\Holdem.pdb

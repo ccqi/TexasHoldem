@@ -1,0 +1,13 @@
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\bin\Release\HoldemTest3.exe
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\bin\Release\HoldemTest3.pdb
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\bin\Release\Holdem.dll
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\bin\Release\Holdem.pdb
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Release\HoldemTest3.Form1.resources
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Release\HoldemTest3.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Release\HoldemTest3.exe
+C:\Users\CharlesQi\Desktop\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Release\HoldemTest3.pdb
+F:\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Release\HoldemTest3.exe
+F:\Texas Holdem\HoldemTest3\HoldemTest3\obj\x86\Release\HoldemTest3.pdb
